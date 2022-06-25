@@ -7,7 +7,7 @@ It is a collaborative project built by a team of 4 executed in 5 days
 To try our app just click on [BigBasket Clone](https://big-basket-five.vercel.app/) 
 
 ```bash
-(https://big-basket-five.vercel.app)
+https://big-basket-five.vercel.app
 ```
 
 ## Features
