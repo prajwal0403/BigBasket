@@ -2,7 +2,7 @@
 BigBasket is  India’s Largest online Food and groceries store. and We've cloned this app
 It is a collaborative project built by a team of 4 executed in 5 days
 
-## Try the JioMart-App
+## Try the BigBasket-App
 
 To try our app just click on [BigBasket Clone](https://big-basket-five.vercel.app/) 
 
